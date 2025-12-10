@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://driverstudio.github.io/my-calculator/sitemap.xml
